@@ -1,0 +1,516 @@
+Mono path[0] = 'A:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Managed'
+Mono config path = 'A:/SteamLibrary/steamapps/common/RimWorld/MonoBleedingEdge/etc'
+Initialize engine version: 2019.4.30f1 (e8c891080a1f)
+[Subsystems] Discovering subsystems at path A:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/UnitySubsystems
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 2080 SUPER (ID=0x1e81)
+    Vendor:   
+    VRAM:     8010 MB
+    Driver:   30.0.15.1215
+Begin MonoManager ReloadAssembly
+- Completed reload, in  0.098 seconds
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.634900 ms
+RimWorld 1.3.3389 rev40
+Mod  is missing supported versions list in About.xml! (example: <supportedVersions><li>1.0</li></supportedVersions>) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Mod .sync is missing packageId in About.xml! (example: <packageId>AuthorName.ModName.Specific</packageId>) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Mod Don't Judge Us! is missing packageId in About.xml! (example: <packageId>AuthorName.ModName.Specific</packageId>) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Mod  is missing supported versions list in About.xml! (example: <supportedVersions><li>1.0</li></supportedVersions>) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Mod RJW & addons is missing packageId in About.xml! (example: <packageId>AuthorName.ModName.Specific</packageId>) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Fallback handler could not load library A:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000022FF75B5F40.dll
+Fallback handler could not load library A:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000022FF6185220.dll
+Fallback handler could not load library A:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000022FF74E2010.dll
+Fallback handler could not load library A:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000022FF7779360.dll
+Fallback handler could not load library A:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000022FF6183E10.dll
+Fallback handler could not load library A:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000022FF66B71A0.dll
+Fallback handler could not load library A:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000022FF7904E90.dll
+Fallback handler could not load library A:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000022FF66BC1B0.dll
+Fallback handler could not load library A:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000022FF75A2010.dll
+Fallback handler could not load library A:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000022FF7509E20.dll
+Fallback handler could not load library A:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000022FF75A4420.dll
+Fallback handler could not load library A:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000022FF7515230.dll
+Fallback handler could not load library A:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000022FCDBC2A40.dll
+Fallback handler could not load library A:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000022FF7521640.dll
+Fallback handler could not load library A:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000022FF79CCAB0.dll
+Fallback handler could not load library A:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000022FCDBF5E70.dll
+Fallback handler could not load library A:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000022FF7A9D4D0.dll
+Fallback handler could not load library A:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000022FF7AB4510.dll
+Fallback handler could not load library A:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000022FF7AC2120.dll
+Fallback handler could not load library A:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000022FCDBF8280.dll
+Fallback handler could not load library A:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000022FF7BB7D60.dll
+Fallback handler could not load library A:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000022FF7C15D70.dll
+Fallback handler could not load library A:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000022FF7D02BA0.dll
+Fallback handler could not load library A:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000022FF7D051B0.dll
+Fallback handler could not load library A:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000022FF7E4DC20.dll
+Fallback handler could not load library A:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000022FF7E74630.dll
+Fallback handler could not load library A:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000022FF7E82650.dll
+Fallback handler could not load library A:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000022FF7F34C70.dll
+Fallback handler could not load library A:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000022FF7FEA490.dll
+Fallback handler could not load library A:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000022FF7FEC8A0.dll
+Fallback handler could not load library A:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000022FF7FEDAB0.dll
+Fallback handler could not load library A:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000022FF7FFB8D0.dll
+Fallback handler could not load library A:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000022FF80004E0.dll
+Fallback handler could not load library A:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000022FF8006910.dll
+Fallback handler could not load library A:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000022FF80D7540.dll
+Fallback handler could not load library A:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000022FF8107A70.dll
+Fallback handler could not load library A:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000022FF810A090.dll
+Fallback handler could not load library A:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000022FF8137600.dll
+Fallback handler could not load library A:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000022FF8138810.dll
+Fallback handler could not load library A:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000022FF63E2920.dll
+Fallback handler could not load library A:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000022FF63DB0D0.dll
+Fallback handler could not load library A:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000022FF8158E90.dll
+Fallback handler could not load library A:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000022FF815BEA0.dll
+Fallback handler could not load library A:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000022FF815E8B0.dll
+Fallback handler could not load library A:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000022FF81668C0.dll
+Fallback handler could not load library A:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000022FF8167D10.dll
+Fallback handler could not load library A:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000022FF8182F40.dll
+Fallback handler could not load library A:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000022FCD999B30.dll
+Fallback handler could not load library A:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000022FF7D59EC0.dll
+Fallback handler could not load library A:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000022FF8199760.dll
+Fallback handler could not load library A:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000022FF819A970.dll
+Fallback handler could not load library A:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000022FF819DF90.dll
+Fallback handler could not load library A:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000022FF81CD9A0.dll
+Fallback handler could not load library A:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000022FF821E220.dll
+Fallback handler could not load library A:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000022FF823C640.dll
+Fallback handler could not load library A:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000022FF823EC50.dll
+Fallback handler could not load library A:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000022FF826AA80.dll
+Fallback handler could not load library A:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000022FF8273090.dll
+Fallback handler could not load library A:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000022FF8275CE0.dll
+Fallback handler could not load library A:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000022FF828F900.dll
+Fallback handler could not load library A:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000022FF82F0010.dll
+Fallback handler could not load library A:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000022FF82F1E30.dll
+Fallback handler could not load library A:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000022FCD99DB40.dll
+Fallback handler could not load library A:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000022FF8326A50.dll
+Fallback handler could not load library A:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000022FF83ED880.dll
+Fallback handler could not load library A:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000022FF8990080.dll
+Fallback handler could not load library A:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000022FF83F7000.dll
+Fallback handler could not load library A:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000022FF8403A10.dll
+Fallback handler could not load library A:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000022FF8A28E90.dll
+Fallback handler could not load library A:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000022FF8460010.dll
+Fallback handler could not load library A:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000022FF8463A20.dll
+Fallback handler could not load library A:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000022FF8A34CA0.dll
+Fallback handler could not load library A:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000022FF8A44CB0.dll
+Fallback handler could not load library A:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000022FF8A76ED0.dll
+Fallback handler could not load library A:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000022FF8A88F70.dll
+Fallback handler could not load library A:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000022FF846AA40.dll
+Fallback handler could not load library A:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000022FF8A95900.dll
+Fallback handler could not load library A:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000022FF8AACF10.dll
+Fallback handler could not load library A:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000022FF8AB1F20.dll
+Fallback handler could not load library A:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000022FF8AB4530.dll
+Fallback handler could not load library A:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000022FF8ABAF50.dll
+Fallback handler could not load library A:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000022FF8B6E970.dll
+Fallback handler could not load library A:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000022FF8B70380.dll
+Fallback handler could not load library A:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000022FF8C237A0.dll
+Fallback handler could not load library A:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000022FF8C2A1B0.dll
+Fallback handler could not load library A:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000022FF8C349D0.dll
+Fallback handler could not load library A:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000022FF8C393E0.dll
+Fallback handler could not load library A:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000022FF8C5F600.dll
+Fallback handler could not load library A:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000022FF8C7E820.dll
+Fallback handler could not load library A:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000022FF8CE8270.dll
+Fallback handler could not load library A:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000022FF8DB8EA0.dll
+Fallback handler could not load library A:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000022FF8430700.dll
+Fallback handler could not load library A:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000022FF8DC0EC0.dll
+Fallback handler could not load library A:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000022FF8E9C020.dll
+Fallback handler could not load library A:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000022FF8EA6A40.dll
+Fallback handler could not load library A:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000022FF8EAD450.dll
+Fallback handler could not load library A:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000022FF8EB7460.dll
+Fallback handler could not load library A:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000022FF8EBD470.dll
+Fallback handler could not load library A:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000022FF8F0D6A0.dll
+Fallback handler could not load library A:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000022FF8F20010.dll
+Fallback handler could not load library A:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000022FF8F2EC30.dll
+Fallback handler could not load library A:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000022FF8F38240.dll
+Fallback handler could not load library A:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000022FF8F39850.dll
+Fallback handler could not load library A:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000022FF8F3C670.dll
+Fallback handler could not load library A:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000022FF8F48480.dll
+Fallback handler could not load library A:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000022FF617C5B0.dll
+Fallback handler could not load library A:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000022FF8F57E90.dll
+Fallback handler could not load library A:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000022FF91FF830.dll
+Fallback handler could not load library A:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000022FF93F90A0.dll
+[HugsLib] version 9.0.1
+Fallback handler could not load library A:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000022FF9ED0850.dll
+[HugsLib] early-initializing AllowTool
+Fallback handler could not load library A:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000022FFA64A040.dll
+dubwise.dubsbadhygiene 3.0.2187
+DubsBreakMod 1.0.809
+DubsMintMenus v1.3.995
+[Interaction Bubbles v2.4] Initialized
+Frontier Developments Shields :: Loading Dubs Bad Hygiene support
+[Configurable Maps] Correcting default values for Fertility, Water, and Mountain to their default values.
+LWM Deep Storage: activated compatibility patch for Dubs Bad Hygiene
+LWM Deep Storage: activated compatibility patch for Sparkling Worlds
+Parsed 5.5 as int. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No RimWorld.StatDef named SexAbility found to give to RimWorld.StatModifier (null stat) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No RimWorld.StatDef named SexAbility found to give to RimWorld.StatModifier (null stat) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No RimWorld.StatDef named SexAbility found to give to RimWorld.StatModifier (null stat) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No RimWorld.StatDef named SexAbility found to give to RimWorld.StatModifier (null stat) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No RimWorld.StatDef named SexAbility found to give to RimWorld.StatModifier (null stat) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No RimWorld.StatDef named SexAbility found to give to RimWorld.StatModifier (null stat) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No RimWorld.StatDef named SexAbility found to give to RimWorld.StatModifier (null stat) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No RimWorld.StatDef named SexAbility found to give to RimWorld.StatModifier (null stat) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No RimWorld.StatDef named SexAbility found to give to RimWorld.StatModifier (null stat) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No RimWorld.StatDef named SexAbility found to give to RimWorld.StatModifier (null stat) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No RimWorld.StatDef named SexAbility found to give to RimWorld.StatModifier (null stat) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No RimWorld.StatDef named SexAbility found to give to RimWorld.StatModifier (null stat) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No Verse.ThingDef named DinoAnus found to give to Verse.ThingDefCountClass (1x null) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No RimWorld.StatDef named SexAbility found to give to RimWorld.StatModifier (null stat) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No RimWorld.StatDef named SexAbility found to give to RimWorld.StatModifier (null stat) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No RimWorld.StatDef named SexAbility found to give to RimWorld.StatModifier (null stat) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No RimWorld.StatDef named SexAbility found to give to RimWorld.StatModifier (null stat) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No RimWorld.StatDef named SexAbility found to give to RimWorld.StatModifier (null stat) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No RimWorld.StatDef named SexAbility found to give to RimWorld.StatModifier (null stat) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No RimWorld.StatDef named SexAbility found to give to RimWorld.StatModifier (null stat) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No RimWorld.StatDef named SexAbility found to give to RimWorld.StatModifier (null stat) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No RimWorld.StatDef named SexAbility found to give to RimWorld.StatModifier (null stat) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No RimWorld.StatDef named SexAbility found to give to RimWorld.StatModifier (null stat) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No RimWorld.StatDef named SexAbility found to give to RimWorld.StatModifier (null stat) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No RimWorld.StatDef named SexAbility found to give to RimWorld.StatModifier (null stat) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No RimWorld.StatDef named SexAbility found to give to RimWorld.StatModifier (null stat) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No RimWorld.StatDef named SexAbility found to give to RimWorld.StatModifier (null stat) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No RimWorld.StatDef named SexAbility found to give to RimWorld.StatModifier (null stat) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No RimWorld.StatDef named SexAbility found to give to RimWorld.StatModifier (null stat) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No RimWorld.StatDef named SexAbility found to give to RimWorld.StatModifier (null stat) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No RimWorld.StatDef named SexAbility found to give to RimWorld.StatModifier (null stat) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No RimWorld.StatDef named SexAbility found to give to RimWorld.StatModifier (null stat) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No RimWorld.StatDef named SexAbility found to give to RimWorld.StatModifier (null stat) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No RimWorld.StatDef named SexAbility found to give to RimWorld.StatModifier (null stat) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No RimWorld.StatDef named SexAbility found to give to RimWorld.StatModifier (null stat) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No RimWorld.StatDef named SexAbility found to give to RimWorld.StatModifier (null stat) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No RimWorld.StatDef named SexAbility found to give to RimWorld.StatModifier (null stat) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No Verse.ThingDef named DinoAnus found to give to Verse.DefHyperlink Verse.DefHyperlink 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No RimWorld.StatDef named SexAbility found to give to RimWorld.StatModifier (null stat) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No RimWorld.StatDef named SexAbility found to give to RimWorld.StatModifier (null stat) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No RimWorld.StatDef named SexAbility found to give to RimWorld.StatModifier (null stat) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No RimWorld.StatDef named SexAbility found to give to RimWorld.StatModifier (null stat) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No RimWorld.StatDef named SexAbility found to give to RimWorld.StatModifier (null stat) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No RimWorld.StatDef named SexAbility found to give to RimWorld.StatModifier (null stat) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No RimWorld.StatDef named SexAbility found to give to RimWorld.StatModifier (null stat) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No RimWorld.StatDef named SexAbility found to give to RimWorld.StatModifier (null stat) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No RimWorld.StatDef named SexAbility found to give to RimWorld.StatModifier (null stat) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No RimWorld.StatDef named SexAbility found to give to RimWorld.StatModifier (null stat) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No Verse.ThingDef named DinoAnus found to give to rjw.HediffDef_PartBase DionAnus 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No RimWorld.StatDef named SexAbility found to give to RimWorld.StatModifier (null stat) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No RimWorld.StatDef named SexAbility found to give to RimWorld.StatModifier (null stat) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No RimWorld.StatDef named SexAbility found to give to RimWorld.StatModifier (null stat) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No RimWorld.StatDef named SexAbility found to give to RimWorld.StatModifier (null stat) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No RimWorld.StatDef named SexAbility found to give to RimWorld.StatModifier (null stat) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No RimWorld.StatDef named SexAbility found to give to RimWorld.StatModifier (null stat) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No RimWorld.StatDef named SexAbility found to give to RimWorld.StatModifier (null stat) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No RimWorld.StatDef named SexAbility found to give to RimWorld.StatModifier (null stat) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No RimWorld.StatDef named SexAbility found to give to RimWorld.StatModifier (null stat) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No RimWorld.StatDef named SexAbility found to give to RimWorld.StatModifier (null stat) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No RimWorld.StatDef named SexAbility found to give to RimWorld.StatModifier (null stat) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No RimWorld.StatDef named SexAbility found to give to RimWorld.StatModifier (null stat) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No RimWorld.StatDef named SexAbility found to give to RimWorld.StatModifier (null stat) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No RimWorld.StatDef named SexAbility found to give to RimWorld.StatModifier (null stat) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No RimWorld.StatDef named SexAbility found to give to RimWorld.StatModifier (null stat) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No RimWorld.StatDef named SexAbility found to give to RimWorld.StatModifier (null stat) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No RimWorld.StatDef named SexAbility found to give to RimWorld.StatModifier (null stat) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No RimWorld.StatDef named SexAbility found to give to RimWorld.StatModifier (null stat) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No RimWorld.StatDef named SexAbility found to give to RimWorld.StatModifier (null stat) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No RimWorld.StatDef named SexAbility found to give to RimWorld.StatModifier (null stat) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No RimWorld.StatDef named SexAbility found to give to RimWorld.StatModifier (null stat) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No RimWorld.StatDef named SexAbility found to give to RimWorld.StatModifier (null stat) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No RimWorld.StatDef named SexAbility found to give to RimWorld.StatModifier (null stat) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No RimWorld.StatDef named SexAbility found to give to RimWorld.StatModifier (null stat) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No RimWorld.StatDef named SexAbility found to give to RimWorld.StatModifier (null stat) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No RimWorld.StatDef named SexAbility found to give to RimWorld.StatModifier (null stat) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No RimWorld.StatDef named SexAbility found to give to RimWorld.StatModifier (null stat) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No RimWorld.StatDef named SexAbility found to give to RimWorld.StatModifier (null stat) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No RimWorld.StatDef named SexAbility found to give to RimWorld.StatModifier (null stat) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No RimWorld.StatDef named SexAbility found to give to RimWorld.StatModifier (null stat) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No RimWorld.StatDef named SexAbility found to give to RimWorld.StatModifier (null stat) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No RimWorld.StatDef named SexAbility found to give to RimWorld.StatModifier (null stat) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No RimWorld.StatDef named SexAbility found to give to RimWorld.StatModifier (null stat) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No RimWorld.StatDef named SexAbility found to give to RimWorld.StatModifier (null stat) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No RimWorld.StatDef named SexAbility found to give to RimWorld.StatModifier (null stat) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No RimWorld.StatDef named SexAbility found to give to RimWorld.StatModifier (null stat) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No RimWorld.StatDef named SexAbility found to give to RimWorld.StatModifier (null stat) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No RimWorld.StatDef named SexAbility found to give to RimWorld.StatModifier (null stat) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No RimWorld.StatDef named SexAbility found to give to RimWorld.StatModifier (null stat) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No RimWorld.StatDef named SexAbility found to give to RimWorld.StatModifier (null stat) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No RimWorld.StatDef named SexAbility found to give to RimWorld.StatModifier (null stat) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No RimWorld.StatDef named SexAbility found to give to RimWorld.StatModifier (null stat) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No RimWorld.StatDef named SexAbility found to give to RimWorld.StatModifier (null stat) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No RimWorld.StatDef named SexAbility found to give to RimWorld.StatModifier (null stat) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No RimWorld.StatDef named SexAbility found to give to RimWorld.StatModifier (null stat) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No RimWorld.StatDef named SexAbility found to give to RimWorld.StatModifier (null stat) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No RimWorld.StatDef named SexAbility found to give to RimWorld.StatModifier (null stat) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Frontier Developments Shields :: Using Dubs Bad Hygiene cooling. To support Centralize Climate Control disable Dubs support or load CCC first in the mod list.
+Key binding conflict: MainTab_MedicalTab and Misc7 are both bound to M. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Key binding conflict: OpenStatusWindow and Designator_RotateLeft are both bound to Q. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Key binding conflict: Misc7 and MainTab_MedicalTab are both bound to M. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Translation data for language English has 3 errors. Generate translation report for more info. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[SRTS Expanded] Compatibility with Save our Ship 2 and Combat Extended are temporarily disabled at the moment. SoS2 compatibility will happen soon(ish), CE compatibility will not. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[SRTSExpanded] Overriding SOS2 Destructive Patches.
+Damage Indicators initialized.
+[XML Extensions] Initialized 1 SettingsMenuDef(s) and found 1 unused key(s) from 1 mod(s)
+[XML Extensions] 928 total patches run in 1136ms, 0 failed
+Loaded body addon variants for Kurin_Race
+Loading variants for Kurin/Tail/Single tails/Texture1
+Variants found for Kurin/Tail/Single tails/Texture1: 1
+Loading variants for Kurin/Tail/Single tails/Texture2
+Variants found for Kurin/Tail/Single tails/Texture2: 1
+Loading variants for Kurin/Tail/Single tails/Texture3
+Variants found for Kurin/Tail/Single tails/Texture3: 1
+Loading variants for Kurin/Null/Texture
+Variants found for Kurin/Null/Texture: 1
+Loading variants for Kurin/Ear/Left/DRNTFEarLA
+Variants found for Kurin/Ear/Left/DRNTFEarLA: 2
+Loading variants for Kurin/Ear/Left/DRNTFEarLB
+Variants found for Kurin/Ear/Left/DRNTFEarLB: 2
+Loading variants for Kurin/Ear/Right/DRNTFEarRA
+Variants found for Kurin/Ear/Right/DRNTFEarRA: 2
+Loading variants for Kurin/Ear/Right/DRNTFEarRB
+Variants found for Kurin/Ear/Right/DRNTFEarRB: 2
+
+Alien race successfully completed 180 patches with harmony.
+Medical Tab :: Adding RJW_Fertility to the list of required capacities for RJW_Fertility.
+Medical Tab :: Tag Tongue is not associated with any pawnCapacity. This may be intentional. For modders; if the tag defName contains the capacity defName the two will be linked. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+PickUpAndHaul v0.1.3.2⅔ welcomes you to RimWorld with pointless logspam.
+[RimHUD v1.10.2] Initialized
+Subsurface Conduit: v1.3.7864.23466
+Wall Light: v1.3.7890.36463
+Wall Light in SoS2 compatibility mode.
+[RJW] [StaticConstructorOnStartup] Added 1 rule to PartPreferenceDetectorService._partKindUsageRules
+[RJWEx] [RJWEx] Patching...
+[RJWEx] Gag graphics patch applied @ Verse.PawnGraphicSet.ResolveApparelGraphics as Transpiler
+[RJWEx] ...done
+HediffApparel Harmony Patches:
+  Postfix:
+    Pawn_ApparelTracker.Notify_ApparelAdded
+    Pawn_ApparelTracker.Notify_ApparelRemoved
+CharacterEditor v1.3.842 initializing...
+updating labels for english...
+loading/updating slots...
+loading/updating customs...
+instance created
+allowing apparel to be colorable...
+checking editor settings...
+CharacterEditor v1.3.842 ...done
+[AllowTool] Applied compatibility patch for "Pick Up And Haul"
+ResearchPal :: Research layout initialized
+[HugsLib] initializing ChangeMapEdge, DefensivePositions, Autopsy, HeatMap, MapReroll, LWM_DeepStorage, me.lubar.PrisonCommons, Psychology, RomanceTweaksMoreOptions, RunAndGun, ShipInteriorMod2, SimpleSlaveryCollars, Linkolas.Stabilize, StackXXL, StackableChunks, RJW, RJW_Cum, MilkableColonists, RJW_Whoring
+[MapReroll] Applied Configurable Maps compatibility layer
+[StackXXL] Loaded
+[StackableChunks] Chunk Stacks set too: 400
+[StackableChunks] Slag Stacks set too: 400
